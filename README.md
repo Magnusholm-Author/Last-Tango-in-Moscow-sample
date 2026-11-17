@@ -1,6 +1,7 @@
 # Last Tango in Moscow sample
 <h2>Chapter 1: The Spy Who Slept</h2>
 <b><i>Moscow, Russia, June 1988</i></b>
+
 On a bright summer morning, as I entered the silent halls of Moscow State University, I felt like a dead man walking.
 
 If I blew my first assignment and was captured, they’d probably rough me up and deport me. Or they might torture me to death, trying to extract information I didn’t have.
