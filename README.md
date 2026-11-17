@@ -1,5 +1,5 @@
 # Last Tango in Moscow sample
-<h2></h2> Chapter 1: The Spy Who Slept</h2>
+<h2><h2> Chapter 1: The Spy Who Slept</h2>
 <b><i>Moscow, Russia, June 1988</i></b>
 On a bright summer morning, as I entered the silent halls of Moscow State University, I felt like a dead man walking.
 
