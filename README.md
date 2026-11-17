@@ -1,4 +1,4 @@
-# Last Tango in Moscow sample
+# Last Tango in Moscow free sample
 <h2>Chapter 1: The Spy Who Slept</h2>
 <b><i>Moscow, Russia, June 1988</i></b>
 
