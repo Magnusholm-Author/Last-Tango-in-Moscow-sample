@@ -42,7 +42,7 @@ I nodded toward the open doorway. “Is this the English exam?”
 
 “Can’t you read, young man?” she asked with typical Russian directness, then turned to look at the empty corkboard behind her. “Oh,” she exclaimed in embarrassment. “Oh my!”
 
-I spotted a square sheet of paper lying face down a few feet away by a potted ficus. I picked it up and turned it over. ENGLISH LANG EXAM was scribbled on it in uneven handwritten letters.
+I spotted a square sheet of paper lying face down a few feet away by a potted ficus. I picked it up and turned it over. <i>ENGLISH LANG EXAM</i> was scribbled on it in uneven handwritten letters.
 
 “May I?” I asked, indicating the corkboard.
 
@@ -145,7 +145,7 @@ Perhaps I could glean the secrets of the Soviet education system from her and ad
 
 Unfortunately, the Russians had no tradition of wearing name tags, so I had no clue as to what her name might be, but I imagined it would be something glorious.
 
-For some reason, I thought of Anna Karenina, no doubt because that was the novel I was reading at the time. Such a sad story.
+For some reason, I thought of <i>Anna Karenina</i>, no doubt because that was the novel I was reading at the time. Such a sad story.
 
 Well, I was a modern man, not someone as thoughtless and destructive as Karenina’s toxic lover. If the mystery blonde and I were to have a secret story, it would be a happy tale.
 
