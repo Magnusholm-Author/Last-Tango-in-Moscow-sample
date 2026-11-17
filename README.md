@@ -1,5 +1,5 @@
 # Last Tango in Moscow sample
-<h2><h2> Chapter 1: The Spy Who Slept</h2>
+<h2>Chapter 1: The Spy Who Slept</h2>
 <b><i>Moscow, Russia, June 1988</i></b>
 On a bright summer morning, as I entered the silent halls of Moscow State University, I felt like a dead man walking.
 
@@ -79,7 +79,7 @@ I allowed myself a little laugh. “You can say that again.”
 
 I stepped through the doorway.
 
-# Chapter 2: Lucky Thirteen
+<h2> Chapter 2: Lucky Thirteen</h2>
 The hall in which I found myself was vast, even grander than it had appeared through the doorway. Columns soared up to the high ceiling. At least three hundred desks filled the space. The din of the streets was muted by the thick walls, and the air smelled of books and floor wax.
 
 I wondered what devil had inspired the Stalinist architects to such excesses of gigantism.
@@ -164,7 +164,7 @@ Now and again, I looked at the wall clock, each time taking a peek at the myster
 
 A couple of times, I caught her watching me, but she didn’t see me spying on her. After all, I was a professional trained by surveillance experts.
 
-# Chapter 3: A Harmless Artist
+<h2>Chapter 3: A Harmless Artist</h2>
 In the final fifteen minutes before the exam deadline, the candidates began filing out of the room, handing their completed papers to the jolly old man (whom I privately began calling Bald Santa) and to the blonde beauty.
 
 When the room was half-empty, I rose to my feet and gathered my papers. As I approached the entrance desk, she met my eyes briefly, favored me with a little smile, then looked away, studiously ignoring me.
@@ -210,3 +210,5 @@ Unfortunately, my new friends soon departed.
 But even as the milling crowd thinned, enough lingered to obscure me. I shifted position periodically, melting into gaps between students, letting the casual movement around me do the work of concealment.
 
 Motion is commotion. And commotion is camouflage.
+
+[The full novel can be found on https://www.amazon.com/Last-Tango-Moscow-Espionage-Forbidden-ebook/dp/B0GT8MYW7T/]
