@@ -1,5 +1,5 @@
 # Last Tango in Moscow sample
-# Chapter 1: The Spy Who Slept
+<h2></h2> Chapter 1: The Spy Who Slept</h2>
 <b><i>Moscow, Russia, June 1988</i></b>
 On a bright summer morning, as I entered the silent halls of Moscow State University, I felt like a dead man walking.
 
@@ -79,7 +79,7 @@ I allowed myself a little laugh. “You can say that again.”
 
 I stepped through the doorway.
 
-# Chapter 2 Lucky Thirteen
+# Chapter 2: Lucky Thirteen
 The hall in which I found myself was vast, even grander than it had appeared through the doorway. Columns soared up to the high ceiling. At least three hundred desks filled the space. The din of the streets was muted by the thick walls, and the air smelled of books and floor wax.
 
 I wondered what devil had inspired the Stalinist architects to such excesses of gigantism.
